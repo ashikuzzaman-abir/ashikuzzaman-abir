@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="600" />
+</div> 
   
 
 ### <div align="center">I'm Abir, a full-time software engineer and researcher 👨‍💻 since 2019 🚀</div>  
