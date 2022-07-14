@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<br/>  
+<!-- <br/>   -->
 
 
 ## My Skill Set  
@@ -79,10 +79,10 @@
 
 </td></tr></table>  
 
-<br/>  
+<!-- <br/>   -->
 
 
-## Connect with me  
+<!-- ## Connect with me   -->
 <div align="center">
 <a href="https://github.com/ashikuzzaman-abir" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -99,10 +99,10 @@
 </div>  
   
 
-<br/>  
+<!-- <br/>   -->
 
 
-## Github Stats  
+<!-- ## Github Stats   -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashikuzzaman-abir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -122,10 +122,10 @@
 </div>  
   
 
-<br/>  
+<!-- <br/>   -->
 
 <div align="center"></div>
-<br />
+<!-- <br /> -->
 
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
