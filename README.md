@@ -14,10 +14,10 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I love to play chess ♟  
+- ⚡ Fun fact: I love to play chess♟ and football⚽ 
   
 
-<!-- <br/>   -->
+<br/>  
 
 
 ## My Skills  
@@ -49,13 +49,13 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   -->
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/2e5b0058b2d38158b21439fe06e9b8fabe3cb139.png" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://w7.pngwing.com/pngs/162/702/png-transparent-socket-io-node-js-express-js-npm-network-socket-github-angle-triangle-logo-thumbnail.png" alt="socket.io" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socket.io" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   -->
@@ -73,7 +73,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
@@ -83,7 +83,7 @@
 
 </td></tr></table>  
 
-<!-- <br/>   -->
+<br/>  
 
 
 <!-- ## Connect with me   -->
@@ -103,7 +103,7 @@
 </div>  
   
 
-<!-- <br/>   -->
+<br/>  
 
 
 <!-- ## Github Stats   -->
