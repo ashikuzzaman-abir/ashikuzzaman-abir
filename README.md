@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on [dholaai.com](https://dholaai.vercel.com)  
   
 
-- 🌱 I’m currently learning socket.io and Next.js  
+- 🌱 I’m currently learning Socket.io and Three.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love to play chess ♟  
   
 
 <!-- <br/>   -->
