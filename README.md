@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Socket.io and Three.js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack  
   
 
 - ⚡ Fun fact: I love to play chess♟ and football⚽ 
