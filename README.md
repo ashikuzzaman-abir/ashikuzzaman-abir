@@ -14,7 +14,7 @@
 - ❓ Ask me about anything related to MERN stack  
   
 
-- ⚡ Fun fact: I love to play chess♟ and football⚽ 
+- ⚡ Fun fact: I love to play chess ♟ and football⚽ 
   
 
 <br/>  
