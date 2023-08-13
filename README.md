@@ -75,6 +75,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png](https://image.spreadshirtmedia.com/image-server/v1/compositions/T129A4PA4172PT32X41Y11D1048988355W2899H2900CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=4,backgroundColor=ffffff/burp-suite-icon.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2FBurp-Suite-macOS-BigSur%2F190319&psig=AOvVaw1PAyHHHBksN3wgeapxQm85&ust=1692033743487000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDGl4OT2oADFQAAAAAdAAAAABAJ" alt="BurpSuite" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
