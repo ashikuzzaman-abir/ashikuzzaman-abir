@@ -40,6 +40,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1390736294666506242/_D_h6aWq_400x400.png" alt="three.js" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphQL" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png](https://image.spreadshirtmedia.com/image-server/v1/compositions/T129A4PA4172PT32X41Y11D1048988355W2899H2900CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=4,backgroundColor=ffffff/burp-suite-icon.jpg" alt="BurpSuite" height="50" /> 
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   -->
 </div>
 
