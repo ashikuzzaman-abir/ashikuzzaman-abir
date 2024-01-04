@@ -2,19 +2,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="object-fit: cover; height:200px; width:100%;"/>
 </div> -->
 
-### <div align="center"> <img src="https://tenor.com/XIWU7F0G2c.gif" height="30"/> I'm Abir, a full-time software engineer and researcher since 2019 😇</div>  
+### <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" height="30"/> I'm Abir, a full-time software engineer and researcher since 2019 😇</div>  
   
 
-- 🔭 Building many interesting products with [Thinkcrypt.io](https://thinkcrypt.io) 
+- Building many interesting products with [Thinkcrypt.io](https://thinkcrypt.io) ⚡
   
 
-- 🌱 Learning NextJS, Socket.io, Docker, Web pentesting, System analysis and design 
+- Learning NextJS, Socket.io, Docker, Web pentesting, System analysis and design 
   
 
-- ❓ I'm open with anything related to MERN stack, Cryptograpy, Quantum realm and beyond...😅
+- I'm open with anything related to MERN stack, Cryptograpy, Quantum realm and beyond...😅
   
 
-- ⚡ I enjoy playing [♟chess](https://www.chess.com/member/ashikuzzamanabir) and football
+- I enjoy playing [♟chess](https://www.chess.com/member/ashikuzzamanabir) and football
   
 
 <br/>  
