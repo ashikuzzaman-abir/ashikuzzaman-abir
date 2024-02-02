@@ -11,7 +11,7 @@
 - Learning NextJS, Socket.io, Docker, Web pentesting, System analysis and design 
   
 
-- I'm open with anything related to MERN stack, Cryptograpy, Quantum realm and beyond...😅
+- I'm open with anything related to MERN stack, Cryptography, Quantum realm and beyond...😅
   
 
 - I enjoy playing [♟chess](https://www.chess.com/member/ashikuzzamanabir) and football
