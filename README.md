@@ -5,7 +5,7 @@
 ### <div align="center"> <img src="https://rishavanand.github.io/static/images/greetings.gif" height="30"/> I'm Abir, a full-time software engineer and researcher since 2019 😇</div>  
   
 
-- Building AI products with [FlowGenX AI](https://flowgenx.ai/) ⚡
+- Building Agentic AI products with [FlowGenX AI](https://flowgenx.ai/) ⚡
   
 
 - Learning NextJS, Socket.io, Docker, Web pentesting, System analysis and design 
